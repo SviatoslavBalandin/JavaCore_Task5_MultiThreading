@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         showTimeOfComputingArray();
-       // showTimeOfComputingArrayByMultiThreading();
+        showTimeOfComputingArrayByMultiThreading();
     }
 
     private static void showTimeOfComputingArray () {
